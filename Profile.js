@@ -405,6 +405,12 @@ var profiles = [
   name:"Asmita Mishra",
   place: "Bhopal, Madhya Pradesh, India",
   github:"AsmitaMishra24"
+ },
+ {
+  serialno: 69,
+  name:"Nishtha Gupta",
+  place: "Jaipur, Rajasthan, India",
+  github:"nishtha-09-gupta"
  }
 ];
 
